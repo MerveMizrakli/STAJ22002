@@ -7,6 +7,8 @@ Geliştirilen Projeler
 🔹 (Erp_Proje)
 🔹 (Blog uygulaması)
 🔹 (urunler_proje)
+
+
 Amaç
 
 Bu repo, hem gelişim sürecimi belgelemek hem de portfolyo olarak sunmak amacıyla hazırlanmıştır.
